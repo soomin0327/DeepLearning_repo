@@ -1,4 +1,6 @@
 #DeepLearnig Learning Repo
+
+---
  
  ##Repo 사용 계획
  1. "모두의 딥러닝" 강의를 듣고 이에 대한 내용을 정리하여 올린다
