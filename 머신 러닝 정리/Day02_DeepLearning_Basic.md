@@ -23,4 +23,9 @@
 5. val_loss : " 검증 손실값
 5. val_acc : " 검증 정확도
 
-## 
+## 기본 예제
+- MNIST
+- Block Question -> Make -> Test
+- CNN Model
+- GAN Model
+- LSTM Model
